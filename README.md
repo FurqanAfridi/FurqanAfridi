@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FurqanAfridi
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on C++, Java and Python projects
+- 👀 Python Developer
+- 🌱 Data Science Freak
+- 💞️ I’m looking to collaborate on Python and Data Science projects
 - 📫 Contact me through : furqanjavedafridi@gmail.com
 
 <!---
